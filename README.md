@@ -1,2 +1,3 @@
-# react-birthday-reminder
-A modern react birthday reminder code snippet
+## Idea
+
+[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
